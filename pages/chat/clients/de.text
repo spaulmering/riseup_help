@@ -6,7 +6,7 @@ p(alert alert-info). Bitte hilf uns, diese Seite auf dem neuesten Stand zu halte
 h2. Wichtige Funktionen, nach denen eine Beurteilung des Clients erfolgen kann:
 
 table(table).
-| *OTR?* | Falls verfügbar, hat dieser Client eine eingebaute Unterstützung für OTR (off the record), was eine Ende-zu-Ende Verschlüsselung von Chat-Nachrichten mit PFS (perfect-forward-secrecy / perfekte Weiterleitungs-Geheimhaltung) vereint.|
+| *OTR?* | Falls verfügbar, hat dieser Client eine eingebaute Unterstützung für OTR (off the record), was eine Ende-zu-Ende Verschlüsselung von Chat-Nachrichten mit PFS (perfect-forward-secrecy / perfekte vorwärts gerichtete Geheimhaltung) vereint.|
 | *Jingle?* | Falls verfügbar, kann dieser Client für Sprach- und Videochat verwendet werden.|
 | *Proxy?* | Falls verfügbar, kann dieser Client Proxys verwenden bzw. hält sich dieser Client strikt an die Proxy-Einstellungen.|
 | *SSL/TLS?* | Falls verfügbar, unterstützt dieser Client verschlüsselte Verbindungen mit dem Chat-Server.|
